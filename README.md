@@ -5,6 +5,7 @@ An interactive **Business Intelligence reporting system built in Power BI** for 
 The system transforms project data into a structured reporting environment that supports both **portfolio-level monitoring and project-level investigation**.
 
 [View file here in Power BI Service](https://app.powerbi.com/groups/me/reports/4db30cf7-b3d8-4453-8ba0-a20018bb5e75/52ee7626cb21800cb2dc?experience=power-bi)
+[View file as pdf](https://github.com/nicole-kutswa/Project-Management-Report/blob/main/PROJECT%20MANAGEMENT.pdf)
 
 ![alt text](https://github.com/nicole-kutswa/Project-Management-Report/blob/main/images/pm1.png "Project Summary View")
 ![alt text](https://github.com/nicole-kutswa/Project-Management-Report/blob/main/images/pm2.png "Project Timeline View")
